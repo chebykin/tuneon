@@ -1,0 +1,16 @@
+= Tune On
+
+== Company blogs
+
+. http://nerds.airbnb.com/
+. https://slackhq.com/
+. https://robots.thoughtbot.com/
+. https://eng.uber.com/
+
+
+== Online courses
+
+. https://www.codeschool.com/
+. https://www.codecademy.com/
+. https://frontendmasters.com/
+
