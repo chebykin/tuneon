@@ -2,15 +2,22 @@
 
 == Company blogs
 
-. http://nerds.airbnb.com/
-. https://slackhq.com/
-. https://robots.thoughtbot.com/
-. https://eng.uber.com/
+* http://nerds.airbnb.com/
+* https://slackhq.com/
+* https://robots.thoughtbot.com/
+* https://eng.uber.com/
+* http://githubengineering.com/
+* https://engineering.twitter.com/
+* http://techblog.netflix.com/
+* https://labs.spotify.com/
+* https://www.facebook.com/Engineering/
+* https://techblog.badoo.com/
+* https://blog.docker.com/
 
 
 == Online courses
 
-. https://www.codeschool.com/
-. https://www.codecademy.com/
-. https://frontendmasters.com/
+* https://www.codeschool.com/
+* https://www.codecademy.com/
+* https://frontendmasters.com/
 
