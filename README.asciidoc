@@ -21,3 +21,8 @@
 * https://www.codecademy.com/
 * https://frontendmasters.com/
 
+== Guidelines
+
+* https://github.com/sindresorhus/awesome
+* http://awesome-go.com/
+* http://awesome-python.com/
